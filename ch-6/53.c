@@ -1,0 +1,1 @@
+// Call a function print_date that prints the current date. Define the function without any parameters.

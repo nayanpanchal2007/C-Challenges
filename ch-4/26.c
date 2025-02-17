@@ -1,0 +1,1 @@
+// Create a program to find if the given number is even or odd using ternary operator.

@@ -1,0 +1,1 @@
+// Develop a program that calculates the sum of all numbers entered by a user until the user enters 0. The total sum should then be displayed.

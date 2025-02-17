@@ -1,0 +1,1 @@
+// Create a program using for to display if a number is prime or not.

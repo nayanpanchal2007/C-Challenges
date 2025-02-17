@@ -1,0 +1,1 @@
+// Create a function max that takes two float arguments and returns the larger value.

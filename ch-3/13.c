@@ -1,0 +1,1 @@
+// Create a program to calculate product of two floating points numbers.

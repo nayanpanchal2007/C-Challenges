@@ -1,0 +1,1 @@
+// Create a program that declares one variable of each of the fundamental data types (int, float, double, char) and prints their size using sizeof() operator.

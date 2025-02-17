@@ -1,0 +1,1 @@
+// Create a program using for loop multiplication table for a number.

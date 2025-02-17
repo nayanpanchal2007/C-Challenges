@@ -1,0 +1,1 @@
+// Create a program to calculate simple interest. Simple Interest = (P x T x R)/100

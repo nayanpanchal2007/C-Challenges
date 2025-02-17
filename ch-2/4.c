@@ -1,0 +1,1 @@
+// Create a program to declare two integer variables, assign them values, and display their values.

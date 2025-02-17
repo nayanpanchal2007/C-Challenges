@@ -1,0 +1,1 @@
+// Create a program to check whether a given number is prime using while.

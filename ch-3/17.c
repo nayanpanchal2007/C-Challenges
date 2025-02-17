@@ -1,0 +1,1 @@
+// Create a program to calculate Compound interest. Compound Interest = P(1 + R/100)t

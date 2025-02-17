@@ -1,0 +1,1 @@
+// Write a function named greet that prints "Hello, World!" when called.

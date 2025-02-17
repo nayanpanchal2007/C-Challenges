@@ -1,0 +1,1 @@
+// Define a function square that takes an int and returns its square.

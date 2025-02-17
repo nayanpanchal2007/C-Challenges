@@ -1,0 +1,1 @@
+// Create a program to print the area of a square by inputting its side length

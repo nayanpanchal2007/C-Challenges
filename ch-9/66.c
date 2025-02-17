@@ -1,0 +1,1 @@
+// Create a program to find the sum and average of all elements in an array.

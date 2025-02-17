@@ -1,0 +1,1 @@
+// Create a program to find the minimum of two numbers using ternary operator.

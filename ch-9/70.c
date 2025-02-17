@@ -1,0 +1,1 @@
+// Create a program to return a new array deleting a specific element.

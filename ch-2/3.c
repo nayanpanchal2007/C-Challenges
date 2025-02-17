@@ -1,0 +1,1 @@
+// Create a program to input name of the person and respond with ”Welcome NAME to KG Coding”

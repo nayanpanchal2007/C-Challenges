@@ -1,0 +1,1 @@
+// Create a program to check if the given array is sorted.

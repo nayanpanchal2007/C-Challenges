@@ -1,0 +1,1 @@
+// Call a function get_average that takes five int numbers and returns the average.
